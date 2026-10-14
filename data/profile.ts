@@ -13,7 +13,7 @@ export interface SocialLink {
 }
 
 const WHATSAPP_NUMBER = "201044488696" // international format, digits only (wa.me requirement)
-const PRIMARY_EMAIL = "asemmostafa35@gmail.com"
+const PRIMARY_EMAIL = "asemziidan@gmail.com"
 
 export const PROFILE = {
   name: "Asem Mostafa",
