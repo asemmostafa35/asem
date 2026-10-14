@@ -58,13 +58,13 @@ export const SEED_PROJECTS: Project[] = [
     featured: false,
   },
   {
-    id: "luxe",
-    title: "Luxe",
+    id: "ZENE",
+    title: "ZENE",
     category: "Full Stack Application",
     description: "A polished, responsive web application with a clean component-driven frontend, deployed to the cloud on Railway.",
     features: ["Responsive, polished UI", "Clean component architecture", "Cloud deployment on Railway"],
     tech: ["React", "Node.js", "Railway"],
-    liveUrl: "https://luxe-frontend-production-bdfa.up.railway.app/",
+    liveUrl: "https://zane.up.railway.app/",
     featured: false,
   },
 ]
